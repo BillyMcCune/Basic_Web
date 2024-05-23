@@ -1,6 +1,6 @@
 var chick;
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1000, 400);
   chick = new Chicken;
 }
 
